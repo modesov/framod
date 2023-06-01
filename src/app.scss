@@ -1,0 +1,10 @@
+@import 'styles/fonts';
+@import 'styles/var';
+@import 'styles/style';
+
+.app {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
